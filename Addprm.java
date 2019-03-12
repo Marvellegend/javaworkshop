@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Addpgm{
+public class Addprm{
     public static void main(String[] args) {
         Scanner myinput=new Scanner(System.in);
         int a,b;
